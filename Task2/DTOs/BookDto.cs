@@ -1,8 +1,8 @@
+namespace Task2.DTOs;
+
 using System.ComponentModel.DataAnnotations;
 
-namespace Task2.Models;
-
-public class Book
+public class BookDto
 {
     public Guid Id { get; set; }
 
@@ -13,12 +13,8 @@ public class Book
     [Required]
     public Guid AuthorId { get; set; }
 
-    public Author Author { get; set; }
-
     [Required]
     public Guid GenreId { get; set; }
-
-    public Genre Genre { get; set; }
 
     [Required]
     [Range(0, double.MaxValue)]

@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/user/Library/Caches/JetBrains/Rider2022.3/resharper-host/temp/Rider/vAny/CoverageData/_Task2.-632838466/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d8106b44_002D6961_002D4ce8_002D94f8_002D06837dbb030f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BookRepositoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AD7C7404-ECC6-4220-8062-D78909CF0C19::net7.0::Task2.Tests.BookRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AD7C7404-ECC6-4220-8062-D78909CF0C19::net7.0::AuthorRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AD7C7404-ECC6-4220-8062-D78909CF0C19::net7.0::GenreRepositoryTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

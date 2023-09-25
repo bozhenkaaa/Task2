@@ -1,9 +1,9 @@
-namespace Task2.Models;
-
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-public class Author
+namespace Task2.DTOs;
+
+
+public class AuthorDto
 {
     public Guid Id { get; set; }
 
@@ -13,6 +13,4 @@ public class Author
 
     [MaxLength(1000)]
     public string Biography { get; set; }
-
-    public ICollection<Book> Books { get; set; } = new List<Book>();
 }
